@@ -1,0 +1,7 @@
+
+path: /content/drive/MyDrive/Colab Notebooks/YOLOv11 ECG Dataset/Dataset/dataset
+train: /content/drive/MyDrive/Colab Notebooks/YOLOv11 ECG Dataset/Dataset/dataset/train
+val: /content/drive/MyDrive/Colab Notebooks/YOLOv11 ECG Dataset/Dataset/dataset/val
+
+nc: 3
+names: ['P', 'QRS', 'T']
